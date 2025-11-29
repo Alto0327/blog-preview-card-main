@@ -80,7 +80,7 @@ body {
 .hook {
   color: var(--grey-2);
   line-height: 1.5;
-  font-size: clamp(0.9rem, 1.5vw + 0.4rem, 1rem);
+  font-size: 14px;
 }
 
 /* AUTHOR */
